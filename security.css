@@ -153,6 +153,10 @@ h1 {
         color: aliceblue;
         font-size: 20px;
     }
+        body {
+        overflow-x: hidden;
+    }
+
     .btnd:hover {
         opacity: 1;
     }
